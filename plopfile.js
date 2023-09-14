@@ -1,16 +1,16 @@
 module.exports = function (plop) {
     plop.setGenerator('spring-boot-structure', {
-        description: 'Genera una estructura de Spring Boot con clases personalizadas',
+        description: 'Generate a Spring Boot framework with custom classes',
         prompts: [
             {
                 type: 'input',
                 name: 'packageName',
-                message: 'Nombre del paquete base (por ejemplo, "com.example"):',
+                message: 'Base package name (for example, "com.example"):',
             },
             {
                 type: 'input',
                 name: 'className',
-                message: 'Nombre de la clase base (por ejemplo, "Pepe"):',
+                message: 'Nombre de la clase base (por ejemplo, "example"):',
             },
         ],
         actions: [

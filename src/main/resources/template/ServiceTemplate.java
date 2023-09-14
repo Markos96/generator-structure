@@ -9,10 +9,10 @@ import {{packageName}}.repository.{{className}}Repository;
 @Service
 public class {{className}}Service{
 
-private {{className}}Repository{{className}}Repository;
+private {{className}}Repository {{className}}Repository;
 
 @Autowired
-public void set{{className}}Repository({{className}}Repository{{className}}Repository){
+public void set{{className}}Repository({{className}}Repository {{className}}Repository){
         this.{{className}}Repository={{className}}Repository;
         }
 
