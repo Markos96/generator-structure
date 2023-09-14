@@ -1,24 +1,26 @@
-# Project Structure Generator Spring
+# <u>Project Structure Generator Spring</u>
 
-#### This README will provide a brief description of a project that uses Spring Boot and Plop.js, as well as the steps required to run it. Make sure you have Plop.js installed before you begin.
+_This README will provide a brief description of a project that uses Spring Boot and Plop.js, as well as the steps required to run it. Make sure you have Plop.js installed before you begin._
 
-## Description
+## <u>Description</u>
 
-#### This project is an example of a web application developed with Spring Boot and Plop.js. Spring Boot is used to create the backend of the application, while Plop.js is used to automatically generate code, in this case, it is used to create the packages (Controller, Service, Entity and REpository) from the entered values
+_This project is an example of a web application developed with Spring Boot and Plop.js. Spring Boot is used to create the backend of the application, while Plop.js is used to automatically generate code, in this case, it is used to create the packages (**Controller, Service, Entity and Repository**) from the entered values_
 
 
-### Asegúrate de tener instalado lo siguiente antes de continuar:
+### Make sure you have the following installed before continuing:
 
-1. **Java**: Spring Boot es un framework Java, así que necesitarás tener Java instalado en tu sistema. Puedes descargarlo desde [java.com](https://www.java.com/).
+1. <u>**Java**</u>:_Spring Boot is a Java framework, so you will need to have Java installed on your system. You can download it from java.com_
 
-2. **Spring Boot**: Necesitarás tener Spring Boot instalado. Puedes obtenerlo desde [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot) o utilizando una herramienta de gestión de dependencias como Maven o Gradle.
 
-   3. **Plop.js**: Plop.js es una herramienta de generación de código. Puedes instalarlo globalmente usando npm (Node Package Manager) con el siguiente comando:
+2. <u>**Spring Boot**</u>: _You will need to have Spring Boot installed. You can get it from [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot) or using a dependency management tool like Maven or Gradle._
+
+
+3. <u>**Plop.js**</u>: _Plop.js is a code generation tool. You can install it globally using npm (Node Package Manager) with the following command:_
 
    ```bash
    npm install -g plop
   
-## Configuración y Ejecución 
+## <u>Configuración y Ejecución</u> 
 
 #### Clone repository use GIT
 
