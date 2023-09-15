@@ -9,7 +9,7 @@ _This project is an example of a web application developed with Spring Boot and 
 
 ### Make sure you have the following installed before continuing:
 
-1. <u>**Java**</u>:_Spring Boot is a Java framework, so you will need to have Java installed on your system. You can download it from java.com_
+1. <u>**Java**</u>:_Spring Boot is a Java framework, so you will need to have Java installed on your system. You can download it from [https://java.com](https://java.com)_
 
 
 2. <u>**Spring Boot**</u>: _You will need to have Spring Boot installed. You can get it from [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot) or using a dependency management tool like Maven or Gradle._
